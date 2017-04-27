@@ -1,0 +1,2 @@
+defmodule PhoenixPubsubMqtt do
+end
