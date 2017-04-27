@@ -20,7 +20,7 @@ defmodule PhoenixPubsubMqtt.Mixfile do
 
   defp deps do
     [
-      {:phoenix, github: "phoenixframework/phoenix"},
+      {:phoenix, "~> 1.3.0-rc"},
       {:hulaaki, "~> 0.0.4"}
     ]
   end
